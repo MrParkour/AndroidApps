@@ -7,4 +7,5 @@ Simple practice code for android app.
 - [ ] Вверху экрана массив квадратов, от которых отскакивает кружок и которые удаляются при попадании кружка
 
 В конечном итоге должен получиться арканоид:
+
 <img src="https://github.com/zinger76/AndroidApps/blob/master/a.jpg" width="300" title="Пример">
