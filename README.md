@@ -8,4 +8,4 @@
 
 В конечном итоге должен получиться арканоид:
 
-<img src="https://github.com/zinger76/AndroidApps/blob/master/a.jpg" width="300" title="Пример">
+<img src="https://github.com/MrParkour/AndroidApps/blob/master/a.jpg" width="300" title="Пример">
